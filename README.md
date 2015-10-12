@@ -3,6 +3,8 @@
 
 ## Excerpt from 1994 Rolling Stone Interview
 
+![Steve Jobs](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/jobs.jpg)
+
 **Jeff Goodell:** Would you explain, in simple terms, exactly what object-oriented software is?
 
 **Steve Jobs:** Objects are like people. They’re living, breathing things that have knowledge inside them about how to do things and have memory inside them so they can remember things. And rather than interacting with them at a very low level, you interact with them at a very high level of abstraction, like we’re doing right here.
