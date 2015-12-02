@@ -14,3 +14,5 @@ Here’s an example: If I’m your laundry object, you can give me your dirty cl
 You have no idea how I did that. You have no knowledge of the laundry place. Maybe you speak French, and you can’t even hail a taxi. You can’t pay for one, you don’t have dollars in your pocket. Yet I knew how to do all of that. And you didn’t have to know any of it. All that complexity was hidden inside of me, and we were able to interact at a very high level of abstraction. That’s what objects are. They encapsulate complexity, and the interfaces to that complexity are high level.
 
 [Here's the full interview](http://www.rollingstone.com/culture/news/steve-jobs-in-1994-the-rolling-stone-interview-20110117)
+
+<a href='https://learn.co/lessons/tf-steve-jobs-oo-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
