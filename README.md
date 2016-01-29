@@ -15,4 +15,4 @@ You have no idea how I did that. You have no knowledge of the laundry place. May
 
 [Here's the full interview](http://www.rollingstone.com/culture/news/steve-jobs-in-1994-the-rolling-stone-interview-20110117)
 
-<a href='https://learn.co/lessons/tf-steve-jobs-oo-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/tf-steve-jobs-oo-readme' title='Steve Jobs on Object Orientated Programming'>Steve Jobs on Object Orientated Programming</a> on Learn.co and start learning to code for free.</p>
